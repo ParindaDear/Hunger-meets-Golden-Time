@@ -48,7 +48,7 @@ The insights are used to suggest promotion strategies that can help delivery pla
 ## What I’m Most Proud Of in This Project
 - **Problem**  
 The `Time_Ordered` column contained approximately **1,731 missing values**.  
-I think it's not a good idea tp filling them with `00:00` 
+I think it's not a good idea to filling them with `00:00` 
 or a global median could introduce significant bias into time-based analysis.
 
 - **Solution**   
